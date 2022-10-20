@@ -3,9 +3,9 @@ public class quraticsolver {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int a = 50;
-		int b = 50;
-		int c = 50;
+		int a = 5;
+		int b = 9;
+		int c = 4;
 		if (b*b - 4*a*c <0)
 			System.out.println("Thgjgis equation " + a + "x^2 + " + b +"x + " + c +" has no solution");
 		else
